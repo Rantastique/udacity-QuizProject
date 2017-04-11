@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">QuizProject</string>
+    <string name="nameQuestion">What\'s your name?</string>
+    <string name="nameHint">your name</string>
+    <string name="submitButton">Submit Answers</string>
+    <string name="resetButton">Reset Quiz</string>
+
+    <string name="questionOne">Which of those are not part of a quidditch ballset?</string>
+    <string name="answerOneA">Quaffle</string>
+    <string name="answerOneB">Remembrall</string>
+    <string name="answerOneC">Beater</string>
+    <string name="answerOneD">Bludger</string>
+
+    <string name="questionTwo">Which spell would you use to summon your broom?</string>
+    <string name="answerTwoA">Avis!</string>
+    <string name="answerTwoB">Accio!</string>
+    <string name="answerTwoC">Alohomora!</string>
+
+    <string name="questionThree">What are the names of the Patil twins?</string>
+    <string name="answerThreeA">Priya</string>
+    <string name="answerThreeB">Padma</string>
+    <string name="answerThreeC">Parnavi</string>
+    <string name="answerThreeD">Parvati</string>
+
+    <string name="questionFour">What is the first name of House Hufflepuff\'s founder?</string>
+    <string name="inputFourHint">Write the name here!</string>
+
+    <string name="questionFive">The Dursleys live in Privet Drive Number...</string>
+    <string name="answerFiveA">4</string>
+    <string name="answerFiveB">7</string>
+    <string name="answerFiveC">13</string>
+
+    <string name="questionSix">What is the first name of Fleur Delacour\'s sister?</string>
+    <string name="answerSixA">Madeleine</string>
+    <string name="answerSixB">Yvette</string>
+    <string name="answerSixC">Gabrielle</string>
+
+    <string name="questionSeven">What is Harry\s wand made of?</string>
+    <string name="answerSevenA">Phoenix Feather</string>
+    <string name="answerSevenB">Dragon Heartstring</string>
+    <string name="answerSevenC">Holly</string>
+    <string name="answerSevenD">Ebony</string>
+
+    <string name="questionEight">What are actual shops in Hogsmeade?</string>
+    <string name="answerEightA">Hog\'s Head Pub</string>
+    <string name="answerEightB">Athena\'s Spellbooks</string>
+    <string name="answerEightC">Dervish and Banges</string>
+    <string name="answerEightD">Honeydukes</string>
+
+    <string name="questionNine">What did Harry use to save Ron from dying after drinking poisoned mead?</string>
+    <string name="inputNineHint">Write the name of the object here!</string>
+
+    <string name="questionTen">Which of these dragon breeds do not exist?</string>
+    <string name="answerTenA">Bulgarian Ridgeback</string>
+    <string name="answerTenB">Hebridean Black</string>
+    <string name="answerTenC">Swedish Short-Snout</string>
+    <string name="answerTenD">Peruvian Scorpiontail</string>
+
+    <string name="questionEleven">In which year did Harry receive his letter from Hogwarts?</string>
+    <string name="answerElevenA">1990</string>
+    <string name="answerElevenB">1991</string>
+    <string name="answerElevenC">1992</string>
+
+    <string name="questionTwelve">What would you get if you added powdered root of asphodel to an infusion of wormwood?</string>
+    <string name="answerTwelveA">Draught of Living Death</string>
+    <string name="answerTwelveB">Polyjuice Potion</string>
+    <string name="answerTwelveC">Kissing Concoction</string>
+
+
+
+
+
+</resources>
