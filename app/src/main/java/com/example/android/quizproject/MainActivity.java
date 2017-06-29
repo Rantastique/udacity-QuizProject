@@ -226,7 +226,7 @@ public class MainActivity extends AppCompatActivity {
         else if (8 > Score && Score >=4) {
             toastText += "You did okay, " + userName;
             toastText += ".\nYour personal score is " + Score;
-            toastText += ".\nMaybe You want to do a reread?";
+            toastText += ".\nMaybe you want to do a reread?";
             return toastText;
         }
         else {
